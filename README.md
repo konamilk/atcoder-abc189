@@ -1,6 +1,6 @@
 # atcoder-abc189
 
-| Problem | TH 中央寄せ |
+| Problem | Result |
 | :--- | :---: |
 | A | AC |
 | B | WA |
